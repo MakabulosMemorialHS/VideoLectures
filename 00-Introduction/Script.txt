@@ -1,0 +1,164 @@
+Good morning! Or good afternoon!
+
+<Objectives of this course>
+
+In this video I shall be talking about what we
+will studying the entire year in this course ----
+which is TLE-10 or Introduction To Computer Science 
+and the Java Programming Language.
+
+First, my name is Robert Pascual and together
+with Mr Oliver Gabor, the two of us will be your
+lecturers and your guides to the wonders of
+Computer Science and the pleasures of programming.
+
+The subject of Information Technology can roughly be divided into
+two disciplines. One discipline is called
+Computer Engineering and Computer Engineering
+deals mostly with hardware, its design, its manufacture,
+and its maintenance.
+
+The other discipline which we will informally call
+Software Engineering deals mostly with software.
+In college, the program which mostly deals with
+software engineering goes under the name computer science.
+
+In computer
+science we deal with algoithms, with applications,
+how they are built, how they are designed, and
+how they are maintained.
+
+Our entire course will thus be roughly divided into
+the two areas of computer engineering---which tackles hardware
+and software engineering---which tackles hardware.
+
+Naturally, in order to have actual hands-on knowledge of
+computer science we need to learn a programming language
+and that programming language would be the Java Programming language.
+
+<Hardware and Software>
+In the first quarter of the course we shall be concerned
+with the following questions?
+
+1. What is hardware? How is hardware related to the
+things that we call computers? We will also
+discover what are the different forms in which computers
+appear today.
+
+2. Given a complete computer system we should be acquainted,
+even if at least on a cursory level on what are the
+functional parts of the hardware that comprise that system.
+
+3. In software, we will learn about what are the different
+kinds of software and how the parts form a complete
+comnputer system.
+
+<Software Engineering>
+
+While we cover hardware only during the first
+part of the first quarter of the year. Software will
+cover almost three quarters of our course.
+
+Our course is mostly concentrated on software and
+under that idea we shall be introduced to some
+very important concepts of software engineering.
+
+1. We will learn how to write functional specifications
+for the simple software that we will build.
+
+2. We shall learn a few design techniques and paradigms
+and what are the diagrams that usually go with those
+techniques and paradigms.
+
+3. We will also cover the software life cycle and how it
+affects the implementations that we create
+of the functional specifications that are
+required of the software we create.
+
+<Java Language>
+
+Mostly, the ideas of software engineering that we
+will be studying we will learn in the context of
+the Java Programming Language.
+
+We shall learn how to download the Java SDK from the
+internet, how to install it, and how to
+set it up. The Java SDK is free to download and
+we shall take advantage of that liberty.
+
+We will acquaint ourselves with the very important
+Edit-Compile-Debug Cycle of Java and how to manage
+that cycle effectively.
+
+And of course, we shall learn how to use Java to write
+simple applications for the computer desktop.
+
+<What is expected of you?>
+
+To make full use of this course, what is expected of your?
+
+Because of the COVID-19 situation that we are in, you
+are expected to do a lot of things independently and you
+shall be encoyuraged to learn on your own.
+
+You need to read books, online and offline, and you
+must learn to do independent research.
+To help you along, we will provide videos and
+materials that should speed you on your
+voyage of learning.
+
+You should, of course, work on the activities
+that are assigned to you and submit them 
+online or as a hard copy. At the moment,
+we are still trying to learn how to conduct
+distance learning classes and we should expect
+a bit of friction and a bit of losing our way
+as we do this.
+
+And, certainly, you should write Java Programs when you
+are asked to and even when you are not.
+Our school has complete facilities for building Java
+programs but the COVID-19 restrictions against
+face to face meetings may require us
+to be a bit more creative when we need to use
+the facilities of the school.
+
+Naturally, it is best if you own a computer so
+that you can write the Java programs in your own
+home but having your own computer is not a requirement.
+We will try to find ways of allowing you
+to write those programs in our eLearning Center.
+
+<Study Help>
+We, the lecturers, and you, the learner need a lot
+of cooperation in order to make this distance learning
+effective.
+
+Towards this end, we provide some help if you
+may have trouble while taking up this course.
+
+1. If needed, we shall provide hard or soft copies of the slides
+that are used in this videos.
+
+2. We shall also open a facebook group where you can ask
+questions and interact with your classmates and your lecturers.
+
+3. Your lecturers are thinking of opening regular zoom conferences
+where you can ask questions of your lecturers and have then answered
+for you. Those zoom conferences are not mandatory, they are optional
+and if you cannot attend them for one reason or another it is OK.
+
+4. To reach both of us, you can send inquiries and submissions to the
+following email address. We would rather that you post
+your questions to the facebook group because you may
+not be the only person who has that question and it is more
+efficient for the lecturers to answer the questions
+just once instead of repeating them for each student.
+
+Well, this is it! I hope you enjoy your journey in
+the very exciting world of computer science. Have a great day!
+
+ 
+
+
+
